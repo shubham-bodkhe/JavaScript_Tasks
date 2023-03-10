@@ -1,6 +1,6 @@
 // For Loop - to iterate
 
-for (var a = 1; a < 10; a++) {
+for (var a = 0; a < 10; a++) {
   console.log(a);
 }
 // For In :- loops through the properties of an Object:
@@ -21,7 +21,7 @@ for (let x of language) {
 // While Loop :- loops goes on until condition is satisfy
 
 var n = 1;
-while (n < 10) {
+while (n < 11) {
   console.log(n);
   n++;
 }

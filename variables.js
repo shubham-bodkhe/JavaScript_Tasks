@@ -3,7 +3,7 @@
 // variables is like container which is use
 // to stored the value of different DataTypes
 
-var Number = 10; //Number Datatype
+var Number = 20; //Number Datatype
 var String = "Shubham"; //String Datatype
 var Bignint = 1500000005445246545; //Bignint
 var bool = true; //  Boolean
