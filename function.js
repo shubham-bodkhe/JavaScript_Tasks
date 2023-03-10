@@ -3,13 +3,13 @@
 function greet() {
   //function defination
 
-  console.log("Good Morning");
+  console.log("Good Morning All");
 }
 
 greet(); //function call
 
-function add(x, y) {
-  return x + y;
+function add(a, b) {
+  return a + b;
 }
 
 var a = 10;
